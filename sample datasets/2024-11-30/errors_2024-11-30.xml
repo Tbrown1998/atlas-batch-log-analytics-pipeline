@@ -1,0 +1,2082 @@
+<errors>
+
+  <error>
+    <errorTime>2024-11-30T00:46:47Z</errorTime>
+    <clientIp>10.1.0.49</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T12:31:08Z</errorTime>
+    <clientIp>192.168.10.92</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T13:28:52Z</errorTime>
+    <clientIp>192.168.10.69</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T09:54:46Z</errorTime>
+    <clientIp>192.168.10.121</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T22:36:46Z</errorTime>
+    <clientIp>192.168.10.32</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T09:18:09Z</errorTime>
+    <clientIp>10.1.0.16</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T09:43:22Z</errorTime>
+    <clientIp>192.168.10.179</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T13:15:49Z</errorTime>
+    <clientIp>10.1.0.24</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T15:27:40Z</errorTime>
+    <clientIp>10.1.0.107</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T21:20:34Z</errorTime>
+    <clientIp>10.1.0.91</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T19:56:18Z</errorTime>
+    <clientIp>10.1.0.65</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T05:37:29Z</errorTime>
+    <clientIp>10.1.0.161</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T22:46:13Z</errorTime>
+    <clientIp>192.168.10.56</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:16:55Z</errorTime>
+    <clientIp>10.1.0.89</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T16:30:19Z</errorTime>
+    <clientIp>192.168.10.112</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T08:11:14Z</errorTime>
+    <clientIp>192.168.10.105</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T16:25:07Z</errorTime>
+    <clientIp>192.168.10.30</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T07:11:36Z</errorTime>
+    <clientIp>10.1.0.29</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T19:28:10Z</errorTime>
+    <clientIp>10.1.0.162</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T14:20:49Z</errorTime>
+    <clientIp>10.1.0.175</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T14:43:49Z</errorTime>
+    <clientIp>192.168.10.33</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:22:14Z</errorTime>
+    <clientIp>10.1.0.20</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T23:54:08Z</errorTime>
+    <clientIp>192.168.10.12</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T10:58:19Z</errorTime>
+    <clientIp>10.1.0.73</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T02:05:09Z</errorTime>
+    <clientIp>192.168.10.152</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T09:44:43Z</errorTime>
+    <clientIp>10.1.0.98</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T11:25:07Z</errorTime>
+    <clientIp>10.1.0.113</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:12:20Z</errorTime>
+    <clientIp>192.168.10.66</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T23:13:26Z</errorTime>
+    <clientIp>10.1.0.21</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T22:01:50Z</errorTime>
+    <clientIp>10.1.0.166</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T00:21:42Z</errorTime>
+    <clientIp>192.168.10.93</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T23:00:42Z</errorTime>
+    <clientIp>10.1.0.176</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T15:56:36Z</errorTime>
+    <clientIp>10.1.0.124</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T05:44:12Z</errorTime>
+    <clientIp>192.168.10.166</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T00:43:54Z</errorTime>
+    <clientIp>10.1.0.34</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:18:48Z</errorTime>
+    <clientIp>10.1.0.46</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T00:31:20Z</errorTime>
+    <clientIp>10.1.0.115</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:18:21Z</errorTime>
+    <clientIp>192.168.10.114</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T14:38:37Z</errorTime>
+    <clientIp>192.168.10.155</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T08:57:52Z</errorTime>
+    <clientIp>10.1.0.10</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T06:01:32Z</errorTime>
+    <clientIp>192.168.10.28</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:37:52Z</errorTime>
+    <clientIp>192.168.10.125</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T08:17:39Z</errorTime>
+    <clientIp>192.168.10.138</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:01:42Z</errorTime>
+    <clientIp>192.168.10.103</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T10:11:45Z</errorTime>
+    <clientIp>192.168.10.13</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T19:17:15Z</errorTime>
+    <clientIp>10.1.0.23</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T22:44:48Z</errorTime>
+    <clientIp>10.1.0.169</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T07:30:40Z</errorTime>
+    <clientIp>10.1.0.45</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T22:15:19Z</errorTime>
+    <clientIp>10.1.0.16</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T21:01:37Z</errorTime>
+    <clientIp>10.1.0.146</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T10:27:35Z</errorTime>
+    <clientIp>192.168.10.177</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T19:28:52Z</errorTime>
+    <clientIp>192.168.10.25</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T06:10:40Z</errorTime>
+    <clientIp>192.168.10.88</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T01:09:25Z</errorTime>
+    <clientIp>192.168.10.103</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T14:25:48Z</errorTime>
+    <clientIp>10.1.0.138</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T19:26:19Z</errorTime>
+    <clientIp>192.168.10.141</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T09:00:55Z</errorTime>
+    <clientIp>192.168.10.27</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T18:47:36Z</errorTime>
+    <clientIp>10.1.0.46</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T23:40:10Z</errorTime>
+    <clientIp>192.168.10.29</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T18:15:10Z</errorTime>
+    <clientIp>10.1.0.110</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T20:18:29Z</errorTime>
+    <clientIp>192.168.10.28</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T13:48:13Z</errorTime>
+    <clientIp>192.168.10.179</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T13:20:40Z</errorTime>
+    <clientIp>10.1.0.165</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T00:44:22Z</errorTime>
+    <clientIp>10.1.0.63</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T05:14:46Z</errorTime>
+    <clientIp>10.1.0.153</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:11:04Z</errorTime>
+    <clientIp>10.1.0.62</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T09:00:53Z</errorTime>
+    <clientIp>192.168.10.114</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T00:04:33Z</errorTime>
+    <clientIp>192.168.10.111</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T23:27:44Z</errorTime>
+    <clientIp>10.1.0.89</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:15:29Z</errorTime>
+    <clientIp>10.1.0.32</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T14:22:26Z</errorTime>
+    <clientIp>10.1.0.56</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T06:59:46Z</errorTime>
+    <clientIp>10.1.0.85</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T21:10:21Z</errorTime>
+    <clientIp>10.1.0.75</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T18:04:59Z</errorTime>
+    <clientIp>192.168.10.179</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T06:20:38Z</errorTime>
+    <clientIp>192.168.10.57</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T05:48:08Z</errorTime>
+    <clientIp>10.1.0.116</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T10:54:06Z</errorTime>
+    <clientIp>10.1.0.109</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T22:19:37Z</errorTime>
+    <clientIp>192.168.10.7</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:04:12Z</errorTime>
+    <clientIp>10.1.0.71</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T18:14:48Z</errorTime>
+    <clientIp>192.168.10.57</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T11:47:39Z</errorTime>
+    <clientIp>10.1.0.21</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T10:03:32Z</errorTime>
+    <clientIp>192.168.10.93</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T13:57:20Z</errorTime>
+    <clientIp>192.168.10.115</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:46:31Z</errorTime>
+    <clientIp>192.168.10.108</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T16:16:05Z</errorTime>
+    <clientIp>10.1.0.166</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:03:57Z</errorTime>
+    <clientIp>192.168.10.112</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T19:53:04Z</errorTime>
+    <clientIp>192.168.10.154</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T16:09:43Z</errorTime>
+    <clientIp>192.168.10.93</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T22:49:57Z</errorTime>
+    <clientIp>10.1.0.87</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T02:07:41Z</errorTime>
+    <clientIp>10.1.0.29</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T22:38:11Z</errorTime>
+    <clientIp>192.168.10.131</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T19:49:02Z</errorTime>
+    <clientIp>192.168.10.20</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T08:25:38Z</errorTime>
+    <clientIp>192.168.10.93</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:02:19Z</errorTime>
+    <clientIp>192.168.10.52</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T07:32:05Z</errorTime>
+    <clientIp>192.168.10.22</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T10:38:23Z</errorTime>
+    <clientIp>10.1.0.163</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T19:32:09Z</errorTime>
+    <clientIp>10.1.0.137</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T10:28:45Z</errorTime>
+    <clientIp>192.168.10.147</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:22:38Z</errorTime>
+    <clientIp>10.1.0.100</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T07:31:19Z</errorTime>
+    <clientIp>10.1.0.67</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:09:22Z</errorTime>
+    <clientIp>192.168.10.28</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:51:53Z</errorTime>
+    <clientIp>10.1.0.28</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T08:16:57Z</errorTime>
+    <clientIp>192.168.10.111</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T07:02:18Z</errorTime>
+    <clientIp>10.1.0.89</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:57:34Z</errorTime>
+    <clientIp>10.1.0.135</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T20:13:44Z</errorTime>
+    <clientIp>10.1.0.174</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T10:33:58Z</errorTime>
+    <clientIp>192.168.10.110</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:06:25Z</errorTime>
+    <clientIp>192.168.10.37</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T11:45:51Z</errorTime>
+    <clientIp>192.168.10.92</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T21:05:47Z</errorTime>
+    <clientIp>10.1.0.65</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T01:40:44Z</errorTime>
+    <clientIp>10.1.0.48</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T16:36:57Z</errorTime>
+    <clientIp>10.1.0.103</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:39:39Z</errorTime>
+    <clientIp>192.168.10.25</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T23:04:36Z</errorTime>
+    <clientIp>10.1.0.162</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T18:44:27Z</errorTime>
+    <clientIp>192.168.10.11</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T01:25:45Z</errorTime>
+    <clientIp>192.168.10.97</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T07:00:20Z</errorTime>
+    <clientIp>10.1.0.122</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T07:45:10Z</errorTime>
+    <clientIp>192.168.10.27</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T00:53:20Z</errorTime>
+    <clientIp>10.1.0.171</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T06:19:21Z</errorTime>
+    <clientIp>192.168.10.9</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T22:14:36Z</errorTime>
+    <clientIp>10.1.0.115</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T16:43:17Z</errorTime>
+    <clientIp>192.168.10.169</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:25:08Z</errorTime>
+    <clientIp>10.1.0.119</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T16:16:48Z</errorTime>
+    <clientIp>192.168.10.83</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T21:23:11Z</errorTime>
+    <clientIp>192.168.10.99</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T20:47:59Z</errorTime>
+    <clientIp>192.168.10.135</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T15:03:16Z</errorTime>
+    <clientIp>10.1.0.30</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:30:09Z</errorTime>
+    <clientIp>10.1.0.100</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T08:27:32Z</errorTime>
+    <clientIp>10.1.0.13</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T13:02:56Z</errorTime>
+    <clientIp>10.1.0.45</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:18:35Z</errorTime>
+    <clientIp>10.1.0.168</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:00:30Z</errorTime>
+    <clientIp>192.168.10.142</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T22:37:58Z</errorTime>
+    <clientIp>192.168.10.135</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T21:20:36Z</errorTime>
+    <clientIp>10.1.0.128</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:11:30Z</errorTime>
+    <clientIp>10.1.0.71</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:55:25Z</errorTime>
+    <clientIp>192.168.10.115</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T05:28:38Z</errorTime>
+    <clientIp>192.168.10.60</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:59:45Z</errorTime>
+    <clientIp>10.1.0.120</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:51:15Z</errorTime>
+    <clientIp>192.168.10.152</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T19:19:06Z</errorTime>
+    <clientIp>10.1.0.56</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T11:04:20Z</errorTime>
+    <clientIp>10.1.0.173</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T05:30:26Z</errorTime>
+    <clientIp>10.1.0.55</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T01:00:11Z</errorTime>
+    <clientIp>192.168.10.25</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T01:40:08Z</errorTime>
+    <clientIp>192.168.10.90</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T02:00:54Z</errorTime>
+    <clientIp>192.168.10.130</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T13:34:16Z</errorTime>
+    <clientIp>192.168.10.79</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T10:02:48Z</errorTime>
+    <clientIp>192.168.10.66</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:53:59Z</errorTime>
+    <clientIp>192.168.10.116</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T06:15:41Z</errorTime>
+    <clientIp>192.168.10.41</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T08:31:45Z</errorTime>
+    <clientIp>10.1.0.25</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T05:45:53Z</errorTime>
+    <clientIp>192.168.10.130</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T16:35:03Z</errorTime>
+    <clientIp>10.1.0.107</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T14:18:22Z</errorTime>
+    <clientIp>10.1.0.113</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T12:05:03Z</errorTime>
+    <clientIp>192.168.10.5</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:27:44Z</errorTime>
+    <clientIp>10.1.0.85</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T18:49:22Z</errorTime>
+    <clientIp>10.1.0.142</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T21:38:11Z</errorTime>
+    <clientIp>10.1.0.68</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T01:11:12Z</errorTime>
+    <clientIp>10.1.0.116</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T20:22:54Z</errorTime>
+    <clientIp>10.1.0.64</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T10:01:23Z</errorTime>
+    <clientIp>10.1.0.26</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T11:29:34Z</errorTime>
+    <clientIp>10.1.0.138</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T14:02:23Z</errorTime>
+    <clientIp>10.1.0.55</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T11:43:33Z</errorTime>
+    <clientIp>10.1.0.108</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T07:20:16Z</errorTime>
+    <clientIp>192.168.10.48</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T01:45:32Z</errorTime>
+    <clientIp>10.1.0.141</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T18:29:38Z</errorTime>
+    <clientIp>192.168.10.93</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T14:40:46Z</errorTime>
+    <clientIp>192.168.10.34</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T23:40:03Z</errorTime>
+    <clientIp>10.1.0.32</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T02:43:01Z</errorTime>
+    <clientIp>192.168.10.99</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T19:43:10Z</errorTime>
+    <clientIp>10.1.0.118</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T19:19:50Z</errorTime>
+    <clientIp>192.168.10.127</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:47:02Z</errorTime>
+    <clientIp>192.168.10.1</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T16:06:10Z</errorTime>
+    <clientIp>10.1.0.112</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:37:38Z</errorTime>
+    <clientIp>192.168.10.138</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T05:17:37Z</errorTime>
+    <clientIp>10.1.0.36</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:59:20Z</errorTime>
+    <clientIp>192.168.10.124</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T19:24:05Z</errorTime>
+    <clientIp>192.168.10.157</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:07:24Z</errorTime>
+    <clientIp>10.1.0.69</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T12:45:49Z</errorTime>
+    <clientIp>192.168.10.168</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:58:37Z</errorTime>
+    <clientIp>192.168.10.94</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:16:38Z</errorTime>
+    <clientIp>10.1.0.137</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T21:49:09Z</errorTime>
+    <clientIp>192.168.10.95</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:04:24Z</errorTime>
+    <clientIp>192.168.10.40</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:39:00Z</errorTime>
+    <clientIp>192.168.10.14</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:05:39Z</errorTime>
+    <clientIp>192.168.10.96</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T09:22:05Z</errorTime>
+    <clientIp>10.1.0.15</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:35:43Z</errorTime>
+    <clientIp>10.1.0.8</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T23:30:55Z</errorTime>
+    <clientIp>10.1.0.166</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T13:37:40Z</errorTime>
+    <clientIp>10.1.0.92</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T21:02:45Z</errorTime>
+    <clientIp>192.168.10.6</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T22:05:57Z</errorTime>
+    <clientIp>192.168.10.94</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T19:54:07Z</errorTime>
+    <clientIp>10.1.0.15</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T18:12:16Z</errorTime>
+    <clientIp>192.168.10.5</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:51:16Z</errorTime>
+    <clientIp>10.1.0.87</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T18:21:38Z</errorTime>
+    <clientIp>10.1.0.175</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T20:45:07Z</errorTime>
+    <clientIp>192.168.10.31</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T02:16:42Z</errorTime>
+    <clientIp>10.1.0.179</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:44:02Z</errorTime>
+    <clientIp>10.1.0.78</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T02:22:01Z</errorTime>
+    <clientIp>10.1.0.79</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T08:13:14Z</errorTime>
+    <clientIp>10.1.0.172</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T07:08:57Z</errorTime>
+    <clientIp>192.168.10.70</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T00:08:29Z</errorTime>
+    <clientIp>10.1.0.88</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T06:40:02Z</errorTime>
+    <clientIp>10.1.0.75</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T15:31:21Z</errorTime>
+    <clientIp>192.168.10.60</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T23:34:08Z</errorTime>
+    <clientIp>10.1.0.162</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T20:47:17Z</errorTime>
+    <clientIp>10.1.0.123</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:53:57Z</errorTime>
+    <clientIp>192.168.10.123</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T23:13:26Z</errorTime>
+    <clientIp>10.1.0.16</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T00:10:56Z</errorTime>
+    <clientIp>10.1.0.55</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:23:55Z</errorTime>
+    <clientIp>192.168.10.119</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T15:07:25Z</errorTime>
+    <clientIp>192.168.10.64</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T09:02:07Z</errorTime>
+    <clientIp>192.168.10.20</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T09:52:48Z</errorTime>
+    <clientIp>192.168.10.18</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T14:25:38Z</errorTime>
+    <clientIp>10.1.0.129</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T07:09:30Z</errorTime>
+    <clientIp>192.168.10.178</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T23:51:07Z</errorTime>
+    <clientIp>10.1.0.117</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T05:39:10Z</errorTime>
+    <clientIp>10.1.0.155</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:28:45Z</errorTime>
+    <clientIp>10.1.0.45</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T08:35:25Z</errorTime>
+    <clientIp>192.168.10.97</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T17:43:41Z</errorTime>
+    <clientIp>192.168.10.76</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:04:08Z</errorTime>
+    <clientIp>10.1.0.161</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T10:59:25Z</errorTime>
+    <clientIp>192.168.10.2</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T12:43:07Z</errorTime>
+    <clientIp>10.1.0.109</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T14:52:39Z</errorTime>
+    <clientIp>10.1.0.10</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T07:25:46Z</errorTime>
+    <clientIp>10.1.0.53</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T22:04:57Z</errorTime>
+    <clientIp>10.1.0.148</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T16:45:50Z</errorTime>
+    <clientIp>192.168.10.78</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T13:16:48Z</errorTime>
+    <clientIp>10.1.0.109</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:28:56Z</errorTime>
+    <clientIp>10.1.0.136</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T05:30:49Z</errorTime>
+    <clientIp>10.1.0.98</clientIp>
+    <service>billing_service</service>
+    <errorCode>404</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T04:02:42Z</errorTime>
+    <clientIp>10.1.0.57</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T16:49:59Z</errorTime>
+    <clientIp>192.168.10.128</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T13:05:05Z</errorTime>
+    <clientIp>192.168.10.41</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T09:56:41Z</errorTime>
+    <clientIp>192.168.10.164</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T14:55:35Z</errorTime>
+    <clientIp>192.168.10.97</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T23:52:59Z</errorTime>
+    <clientIp>192.168.10.53</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T22:45:19Z</errorTime>
+    <clientIp>192.168.10.35</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T09:49:08Z</errorTime>
+    <clientIp>192.168.10.136</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T21:03:11Z</errorTime>
+    <clientIp>10.1.0.168</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T16:22:40Z</errorTime>
+    <clientIp>192.168.10.15</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T10:00:35Z</errorTime>
+    <clientIp>10.1.0.112</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T22:39:17Z</errorTime>
+    <clientIp>192.168.10.125</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T19:57:23Z</errorTime>
+    <clientIp>10.1.0.116</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:53:25Z</errorTime>
+    <clientIp>10.1.0.133</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:23:07Z</errorTime>
+    <clientIp>192.168.10.129</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T02:56:36Z</errorTime>
+    <clientIp>10.1.0.13</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:22:37Z</errorTime>
+    <clientIp>192.168.10.15</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T20:58:06Z</errorTime>
+    <clientIp>192.168.10.175</clientIp>
+    <service>billing_service</service>
+    <errorCode>503</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T03:21:54Z</errorTime>
+    <clientIp>10.1.0.40</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T11:38:16Z</errorTime>
+    <clientIp>10.1.0.57</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T18:11:19Z</errorTime>
+    <clientIp>10.1.0.158</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T07:52:01Z</errorTime>
+    <clientIp>10.1.0.45</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T21:19:17Z</errorTime>
+    <clientIp>10.1.0.142</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T21:15:15Z</errorTime>
+    <clientIp>10.1.0.141</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T18:26:31Z</errorTime>
+    <clientIp>192.168.10.110</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T06:24:56Z</errorTime>
+    <clientIp>10.1.0.174</clientIp>
+    <service>billing_service</service>
+    <errorCode>500</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T20:39:17Z</errorTime>
+    <clientIp>10.1.0.17</clientIp>
+    <service>billing_service</service>
+    <errorCode>400</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T22:01:02Z</errorTime>
+    <clientIp>192.168.10.148</clientIp>
+    <service>billing_service</service>
+    <errorCode>401</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T10:08:45Z</errorTime>
+    <clientIp>192.168.10.125</clientIp>
+    <service>billing_service</service>
+    <errorCode>502</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-30T18:46:27Z</errorTime>
+    <clientIp>192.168.10.89</clientIp>
+    <service>billing_service</service>
+    <errorCode>403</errorCode>
+    <message>Billing service error during transaction</message>
+  </error>
+</errors>

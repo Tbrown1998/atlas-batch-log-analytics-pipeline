@@ -1,0 +1,1602 @@
+<errors>
+
+  <error>
+    <errorTime>2024-11-29T01:27:59Z</errorTime>
+    <clientIp>10.0.0.69</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T04:17:12Z</errorTime>
+    <clientIp>192.168.1.191</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T13:38:01Z</errorTime>
+    <clientIp>192.168.1.156</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T17:41:31Z</errorTime>
+    <clientIp>192.168.1.15</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T05:12:06Z</errorTime>
+    <clientIp>192.168.1.73</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T21:28:03Z</errorTime>
+    <clientIp>10.0.0.17</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T11:06:38Z</errorTime>
+    <clientIp>192.168.1.146</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T06:39:56Z</errorTime>
+    <clientIp>10.0.0.180</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:04:33Z</errorTime>
+    <clientIp>192.168.1.63</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T12:41:38Z</errorTime>
+    <clientIp>192.168.1.35</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T01:37:36Z</errorTime>
+    <clientIp>10.0.0.15</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T20:51:52Z</errorTime>
+    <clientIp>192.168.1.159</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T16:28:13Z</errorTime>
+    <clientIp>192.168.1.173</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T13:44:14Z</errorTime>
+    <clientIp>10.0.0.45</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T22:03:11Z</errorTime>
+    <clientIp>192.168.1.68</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T05:02:36Z</errorTime>
+    <clientIp>10.0.0.60</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T16:46:55Z</errorTime>
+    <clientIp>10.0.0.191</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T16:21:01Z</errorTime>
+    <clientIp>192.168.1.77</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T11:50:26Z</errorTime>
+    <clientIp>192.168.1.46</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T22:44:49Z</errorTime>
+    <clientIp>10.0.0.142</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T14:54:50Z</errorTime>
+    <clientIp>192.168.1.199</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T14:23:45Z</errorTime>
+    <clientIp>192.168.1.174</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T01:40:05Z</errorTime>
+    <clientIp>10.0.0.145</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T10:05:56Z</errorTime>
+    <clientIp>10.0.0.132</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T06:01:47Z</errorTime>
+    <clientIp>10.0.0.164</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T20:49:32Z</errorTime>
+    <clientIp>10.0.0.124</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T11:14:41Z</errorTime>
+    <clientIp>10.0.0.89</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T04:30:24Z</errorTime>
+    <clientIp>10.0.0.131</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T03:06:01Z</errorTime>
+    <clientIp>192.168.1.99</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T19:43:39Z</errorTime>
+    <clientIp>10.0.0.97</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T01:55:30Z</errorTime>
+    <clientIp>10.0.0.93</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T06:53:44Z</errorTime>
+    <clientIp>10.0.0.186</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T18:18:01Z</errorTime>
+    <clientIp>192.168.1.10</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T23:57:58Z</errorTime>
+    <clientIp>10.0.0.74</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:41:26Z</errorTime>
+    <clientIp>192.168.1.141</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T07:29:35Z</errorTime>
+    <clientIp>192.168.1.126</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T21:06:03Z</errorTime>
+    <clientIp>10.0.0.29</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T19:25:32Z</errorTime>
+    <clientIp>10.0.0.112</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T14:37:44Z</errorTime>
+    <clientIp>10.0.0.103</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T17:53:38Z</errorTime>
+    <clientIp>192.168.1.12</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T15:54:40Z</errorTime>
+    <clientIp>192.168.1.93</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:52:33Z</errorTime>
+    <clientIp>10.0.0.72</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T13:54:30Z</errorTime>
+    <clientIp>192.168.1.132</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T04:10:26Z</errorTime>
+    <clientIp>192.168.1.51</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T06:07:20Z</errorTime>
+    <clientIp>192.168.1.147</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T06:39:02Z</errorTime>
+    <clientIp>192.168.1.131</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T03:15:47Z</errorTime>
+    <clientIp>192.168.1.79</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T14:49:42Z</errorTime>
+    <clientIp>10.0.0.149</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T02:08:41Z</errorTime>
+    <clientIp>10.0.0.116</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T06:36:24Z</errorTime>
+    <clientIp>192.168.1.14</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T02:07:47Z</errorTime>
+    <clientIp>192.168.1.153</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T03:35:42Z</errorTime>
+    <clientIp>192.168.1.164</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T15:01:49Z</errorTime>
+    <clientIp>192.168.1.166</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T13:40:19Z</errorTime>
+    <clientIp>192.168.1.62</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T07:22:29Z</errorTime>
+    <clientIp>192.168.1.123</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T21:44:10Z</errorTime>
+    <clientIp>10.0.0.102</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T17:56:55Z</errorTime>
+    <clientIp>10.0.0.62</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T18:21:55Z</errorTime>
+    <clientIp>192.168.1.198</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T09:48:16Z</errorTime>
+    <clientIp>192.168.1.32</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T16:55:25Z</errorTime>
+    <clientIp>10.0.0.85</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T02:22:59Z</errorTime>
+    <clientIp>10.0.0.49</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T14:50:11Z</errorTime>
+    <clientIp>10.0.0.126</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:40:40Z</errorTime>
+    <clientIp>192.168.1.138</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T21:20:30Z</errorTime>
+    <clientIp>10.0.0.147</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T08:58:05Z</errorTime>
+    <clientIp>10.0.0.192</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T23:43:20Z</errorTime>
+    <clientIp>192.168.1.65</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T20:41:21Z</errorTime>
+    <clientIp>10.0.0.10</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T03:03:18Z</errorTime>
+    <clientIp>10.0.0.127</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T07:24:27Z</errorTime>
+    <clientIp>192.168.1.73</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T19:40:36Z</errorTime>
+    <clientIp>192.168.1.87</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T08:55:33Z</errorTime>
+    <clientIp>10.0.0.77</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T20:12:44Z</errorTime>
+    <clientIp>10.0.0.33</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:02:11Z</errorTime>
+    <clientIp>10.0.0.39</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T22:36:00Z</errorTime>
+    <clientIp>192.168.1.149</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T06:05:39Z</errorTime>
+    <clientIp>192.168.1.1</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T17:33:21Z</errorTime>
+    <clientIp>192.168.1.140</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T09:08:04Z</errorTime>
+    <clientIp>10.0.0.150</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T12:47:41Z</errorTime>
+    <clientIp>10.0.0.125</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T21:18:17Z</errorTime>
+    <clientIp>10.0.0.63</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T01:39:21Z</errorTime>
+    <clientIp>192.168.1.83</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T19:26:44Z</errorTime>
+    <clientIp>10.0.0.90</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T10:56:45Z</errorTime>
+    <clientIp>192.168.1.46</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T04:28:38Z</errorTime>
+    <clientIp>192.168.1.72</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T20:15:38Z</errorTime>
+    <clientIp>192.168.1.144</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T07:40:36Z</errorTime>
+    <clientIp>10.0.0.114</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T11:35:20Z</errorTime>
+    <clientIp>10.0.0.151</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T23:07:32Z</errorTime>
+    <clientIp>192.168.1.134</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T16:28:58Z</errorTime>
+    <clientIp>192.168.1.140</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T11:42:37Z</errorTime>
+    <clientIp>192.168.1.175</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T16:44:26Z</errorTime>
+    <clientIp>10.0.0.108</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:34:40Z</errorTime>
+    <clientIp>10.0.0.156</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T23:32:10Z</errorTime>
+    <clientIp>192.168.1.2</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T17:20:59Z</errorTime>
+    <clientIp>192.168.1.3</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T06:19:05Z</errorTime>
+    <clientIp>10.0.0.13</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T17:48:11Z</errorTime>
+    <clientIp>10.0.0.192</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T19:35:33Z</errorTime>
+    <clientIp>192.168.1.42</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T23:37:58Z</errorTime>
+    <clientIp>10.0.0.135</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T19:36:41Z</errorTime>
+    <clientIp>192.168.1.16</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T16:12:30Z</errorTime>
+    <clientIp>10.0.0.146</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T12:51:07Z</errorTime>
+    <clientIp>192.168.1.193</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T21:53:35Z</errorTime>
+    <clientIp>192.168.1.184</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T06:27:04Z</errorTime>
+    <clientIp>10.0.0.195</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:18:25Z</errorTime>
+    <clientIp>192.168.1.64</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T13:29:19Z</errorTime>
+    <clientIp>192.168.1.99</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:20:27Z</errorTime>
+    <clientIp>192.168.1.114</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:43:12Z</errorTime>
+    <clientIp>10.0.0.190</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T13:01:40Z</errorTime>
+    <clientIp>192.168.1.99</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T22:20:05Z</errorTime>
+    <clientIp>10.0.0.122</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T08:03:06Z</errorTime>
+    <clientIp>192.168.1.120</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T13:12:59Z</errorTime>
+    <clientIp>192.168.1.19</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T17:56:37Z</errorTime>
+    <clientIp>10.0.0.162</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T22:03:53Z</errorTime>
+    <clientIp>192.168.1.108</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T07:08:21Z</errorTime>
+    <clientIp>10.0.0.128</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T04:02:21Z</errorTime>
+    <clientIp>192.168.1.143</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T18:12:58Z</errorTime>
+    <clientIp>10.0.0.54</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T20:05:23Z</errorTime>
+    <clientIp>192.168.1.100</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T20:35:48Z</errorTime>
+    <clientIp>10.0.0.146</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T21:57:12Z</errorTime>
+    <clientIp>10.0.0.91</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T02:22:46Z</errorTime>
+    <clientIp>10.0.0.103</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T02:22:06Z</errorTime>
+    <clientIp>192.168.1.66</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T20:44:58Z</errorTime>
+    <clientIp>192.168.1.117</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T09:59:16Z</errorTime>
+    <clientIp>192.168.1.99</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:50:30Z</errorTime>
+    <clientIp>10.0.0.156</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T19:24:13Z</errorTime>
+    <clientIp>10.0.0.116</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T20:23:35Z</errorTime>
+    <clientIp>10.0.0.34</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T15:33:02Z</errorTime>
+    <clientIp>10.0.0.130</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T23:40:00Z</errorTime>
+    <clientIp>192.168.1.27</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T11:45:36Z</errorTime>
+    <clientIp>10.0.0.23</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T14:48:50Z</errorTime>
+    <clientIp>192.168.1.141</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T18:52:13Z</errorTime>
+    <clientIp>10.0.0.40</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T13:09:38Z</errorTime>
+    <clientIp>10.0.0.66</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T01:34:57Z</errorTime>
+    <clientIp>10.0.0.171</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T01:42:35Z</errorTime>
+    <clientIp>192.168.1.143</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T19:23:04Z</errorTime>
+    <clientIp>10.0.0.31</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:11:16Z</errorTime>
+    <clientIp>10.0.0.2</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T12:11:10Z</errorTime>
+    <clientIp>192.168.1.42</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:55:25Z</errorTime>
+    <clientIp>10.0.0.179</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T15:25:50Z</errorTime>
+    <clientIp>192.168.1.39</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T07:10:05Z</errorTime>
+    <clientIp>192.168.1.85</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T11:18:57Z</errorTime>
+    <clientIp>192.168.1.33</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T22:45:58Z</errorTime>
+    <clientIp>192.168.1.50</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T17:28:30Z</errorTime>
+    <clientIp>10.0.0.23</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:52:28Z</errorTime>
+    <clientIp>10.0.0.105</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T22:48:10Z</errorTime>
+    <clientIp>192.168.1.172</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T09:07:01Z</errorTime>
+    <clientIp>192.168.1.127</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T17:14:32Z</errorTime>
+    <clientIp>192.168.1.123</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T01:58:54Z</errorTime>
+    <clientIp>192.168.1.171</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T08:37:10Z</errorTime>
+    <clientIp>192.168.1.38</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T21:50:38Z</errorTime>
+    <clientIp>10.0.0.119</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T03:28:59Z</errorTime>
+    <clientIp>10.0.0.122</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T21:04:42Z</errorTime>
+    <clientIp>192.168.1.64</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T02:12:34Z</errorTime>
+    <clientIp>192.168.1.18</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T11:24:22Z</errorTime>
+    <clientIp>10.0.0.157</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T04:38:36Z</errorTime>
+    <clientIp>192.168.1.32</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T16:05:23Z</errorTime>
+    <clientIp>192.168.1.29</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T22:14:10Z</errorTime>
+    <clientIp>10.0.0.122</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T02:23:43Z</errorTime>
+    <clientIp>192.168.1.53</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T02:01:52Z</errorTime>
+    <clientIp>10.0.0.88</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T10:44:15Z</errorTime>
+    <clientIp>192.168.1.196</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T03:29:20Z</errorTime>
+    <clientIp>10.0.0.118</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T14:58:04Z</errorTime>
+    <clientIp>192.168.1.120</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T21:49:47Z</errorTime>
+    <clientIp>10.0.0.139</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:23:10Z</errorTime>
+    <clientIp>10.0.0.34</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T16:54:04Z</errorTime>
+    <clientIp>10.0.0.21</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T22:32:43Z</errorTime>
+    <clientIp>192.168.1.52</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T23:41:57Z</errorTime>
+    <clientIp>10.0.0.147</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:56:44Z</errorTime>
+    <clientIp>10.0.0.34</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T11:56:57Z</errorTime>
+    <clientIp>10.0.0.102</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T03:55:56Z</errorTime>
+    <clientIp>192.168.1.53</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T21:40:10Z</errorTime>
+    <clientIp>10.0.0.167</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T21:35:10Z</errorTime>
+    <clientIp>192.168.1.100</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T04:35:12Z</errorTime>
+    <clientIp>10.0.0.128</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T09:19:51Z</errorTime>
+    <clientIp>192.168.1.182</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T17:31:37Z</errorTime>
+    <clientIp>10.0.0.173</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T16:11:17Z</errorTime>
+    <clientIp>192.168.1.96</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T05:00:45Z</errorTime>
+    <clientIp>192.168.1.23</clientIp>
+    <service>auth_service</service>
+    <errorCode>400</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T04:38:55Z</errorTime>
+    <clientIp>192.168.1.160</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T15:52:07Z</errorTime>
+    <clientIp>10.0.0.64</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T13:01:30Z</errorTime>
+    <clientIp>192.168.1.160</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T19:42:08Z</errorTime>
+    <clientIp>10.0.0.199</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T05:22:01Z</errorTime>
+    <clientIp>10.0.0.42</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T21:57:59Z</errorTime>
+    <clientIp>192.168.1.176</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T13:25:43Z</errorTime>
+    <clientIp>192.168.1.5</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T21:21:05Z</errorTime>
+    <clientIp>10.0.0.138</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T05:15:53Z</errorTime>
+    <clientIp>192.168.1.30</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T18:27:47Z</errorTime>
+    <clientIp>10.0.0.88</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T01:59:17Z</errorTime>
+    <clientIp>10.0.0.18</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T07:06:52Z</errorTime>
+    <clientIp>192.168.1.103</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T07:19:39Z</errorTime>
+    <clientIp>192.168.1.36</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T06:53:39Z</errorTime>
+    <clientIp>10.0.0.143</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T17:01:03Z</errorTime>
+    <clientIp>10.0.0.109</clientIp>
+    <service>auth_service</service>
+    <errorCode>502</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T12:03:23Z</errorTime>
+    <clientIp>10.0.0.98</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T12:13:15Z</errorTime>
+    <clientIp>10.0.0.117</clientIp>
+    <service>auth_service</service>
+    <errorCode>403</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T15:14:39Z</errorTime>
+    <clientIp>192.168.1.169</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T03:49:02Z</errorTime>
+    <clientIp>10.0.0.34</clientIp>
+    <service>auth_service</service>
+    <errorCode>503</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T01:32:10Z</errorTime>
+    <clientIp>10.0.0.55</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T00:08:04Z</errorTime>
+    <clientIp>10.0.0.129</clientIp>
+    <service>auth_service</service>
+    <errorCode>401</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T08:23:02Z</errorTime>
+    <clientIp>10.0.0.40</clientIp>
+    <service>auth_service</service>
+    <errorCode>500</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T07:45:36Z</errorTime>
+    <clientIp>192.168.1.123</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+
+  <error>
+    <errorTime>2024-11-29T12:04:12Z</errorTime>
+    <clientIp>10.0.0.180</clientIp>
+    <service>auth_service</service>
+    <errorCode>404</errorCode>
+    <message>Error occurred during authentication flow</message>
+  </error>
+</errors>

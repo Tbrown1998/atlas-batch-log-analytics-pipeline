@@ -1,0 +1,3 @@
+# Athena
+
+Sample queries.
