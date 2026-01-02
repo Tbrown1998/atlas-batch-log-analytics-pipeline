@@ -1,6 +1,6 @@
 # Atlas — Batch Log Analytics & Metadata Pipeline
 
-This project is a batch-oriented AWS log analytics pipeline designed to ingest heterogeneous application logs, normalize them into a canonical schema, and produce deterministic, analytics-ready datasets.
+Project ATLAS is a batch-oriented AWS log analytics pipeline designed to ingest heterogeneous application logs, normalize them into a canonical schema, and produce deterministic, analytics-ready datasets.
 
 The pipeline prioritizes **correctness, reproducibility, and operational clarity** over real-time ingestion. It reflects real-world data engineering tradeoffs such as late-arriving data, corrected files, duplicates, and safe reprocessing.
 
@@ -91,7 +91,7 @@ This project introduces **clear data stages**, **explicit time handling**, and *
 ---
 ## Core Design Philosophy
 
-Atlas is built around the following principles:
+This pipeline is built around the following principles:
 
 ### 1. Batch Over Streaming
 This pipeline intentionally avoids streaming.
