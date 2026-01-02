@@ -4,14 +4,14 @@ At a high level, Atlas follows a layered data lake architecture:
 
 ```mermaid
 flowchart LR
-    Raw[Raw Logs (S3)]
+    Raw[Raw Logs S3]
     Lambda[Ingestion Lambda]
-    Validated[Validated Zone (S3)]
+    Validated[Validated Zone S3]
     Glue1[Glue Job 1 - Normalization]
-    Processed[Processed Zone (S3)]
+    Processed[Processed Zone S3]
     Glue2[Glue Job 2 - Aggregation]
-    Analytics[Analytics Zone (S3)]
-    Catalota [Catalog]
+    Analytics[Analytics Zone S3]
+    Catalog[Catalog]
 
     Raw -->|S3 Event| Lambda
     Lambda --> Validated
@@ -21,6 +21,7 @@ flowchart LR
     Glue2 --> Analytics
     Processed --> Catalog
     Analytics --> Catalog
+
 ```
 
 Each arrow represents a clear contract between components, not an implicit dependency.
