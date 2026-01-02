@@ -174,34 +174,29 @@ flowchart LR
 
 ## Pipeline Layers Architecture
 
+```mermaid
 flowchart TB
     subgraph RAW["raw/ (Landing Zone)"]
         R1["Incoming Log Files (NDJSON, JSON.GZ, XML)"]
     end
-
     subgraph INGEST["Ingestion & Validation"]
         L1["Lambda Ingestion • detect format • extract event date • route file"]
     end
-
     subgraph VALIDATED["validated/ (File-Level Correctness)"]
         V1["validated/format/year=YYYY/month=MM/day=DD/"]
     end
-
     subgraph PROCESSED["processed/ (Silver Layer)"]
         G1["Glue Job 1 Normalization"]
         P1["processed/logs/log_type=access|error/year/month/day (Parquet)"]
     end
-
     subgraph ANALYTICS["analytics/ (Gold Layer)"]
         G2["Glue Job 2 Daily Aggregation"]
         A1["analytics/daily_activity/date=YYYY-MM-DD"]
     end
-
     subgraph CATALOG["Query Layer"]
         C1["Glue Data Catalog"]
         Q1["Athena"]
     end
-
     subgraph REJECTED["Rejected Data"]
         RJ1["rejected/system/"]
         RJ2["rejected/data_quality/"]
@@ -221,6 +216,7 @@ flowchart TB
     A1 --> C1
     C1 --> Q1
 
+```
 The pipeline enforces a clear, layered data flow: files are validated at ingestion time, normalized at the record level in the processed (silver) layer, and aggregated into deterministic, overwrite-by-day analytics (gold). Each layer has a single responsibility, enabling safe reprocessing and reliable metrics.
 
 ---
