@@ -173,54 +173,55 @@ flowchart LR
 8. Crawlers update metadata for query access
 
 ## Pipeline Layers Architecture
-```
+
 flowchart TB
-    subgraph RAW["raw/  (Landing Zone)"]
-        R1[Incoming Log Files<br/>(NDJSON, JSON.GZ, XML)]
+    subgraph RAW["raw/ (Landing Zone)"]
+        R1["Incoming Log Files (NDJSON, JSON.GZ, XML)"]
     end
 
     subgraph INGEST["Ingestion & Validation"]
-        L1[Lambda Ingestion<br/>• detect format<br/>• extract event date<br/>• route file]
+        L1["Lambda Ingestion • detect format • extract event date • route file"]
     end
 
-    subgraph VALIDATED["validated/  (File-Level Correctness)"]
-        V1[validated/&lt;format&gt;/<br/>year=YYYY/month=MM/day=DD/]
+    subgraph VALIDATED["validated/ (File-Level Correctness)"]
+        V1["validated/format/year=YYYY/month=MM/day=DD/"]
     end
 
-    subgraph PROCESSED["processed/  (Silver Layer)"]
-        G1[Glue Job 1<br/>Normalization]
-        P1[processed/logs/<br/>log_type=access|error/<br/>year/month/day<br/>(Parquet)]
+    subgraph PROCESSED["processed/ (Silver Layer)"]
+        G1["Glue Job 1 Normalization"]
+        P1["processed/logs/log_type=access|error/year/month/day (Parquet)"]
     end
 
-    subgraph ANALYTICS["analytics/  (Gold Layer)"]
-        G2[Glue Job 2<br/>Daily Aggregation]
-        A1[analytics/daily_activity/<br/>date=YYYY-MM-DD]
+    subgraph ANALYTICS["analytics/ (Gold Layer)"]
+        G2["Glue Job 2 Daily Aggregation"]
+        A1["analytics/daily_activity/date=YYYY-MM-DD"]
     end
 
     subgraph CATALOG["Query Layer"]
-        C1[Glue Data Catalog]
-        Q1[Athena]
+        C1["Glue Data Catalog"]
+        Q1["Athena"]
     end
 
+    subgraph REJECTED["Rejected Data"]
+        RJ1["rejected/system/"]
+        RJ2["rejected/data_quality/"]
+        RJ3["rejected/system/"]
+    end
+    
     R1 --> L1
     L1 -->|pass| V1
-    L1 -->|fail| RJ1[rejected/system/]
-
+    L1 -->|fail| RJ1
     V1 --> G1
     G1 -->|valid records| P1
-    G1 -->|row-level issues| RJ2[rejected/data_quality/]
-    G1 -->|job failure| RJ3[rejected/system/]
-
+    G1 -->|row-level issues| RJ2
+    G1 -->|job failure| RJ3
     P1 --> G2
     G2 --> A1
-
     P1 --> C1
     A1 --> C1
     C1 --> Q1
 
-```
-
-#### The pipeline enforces a clear, layered data flow: files are validated at ingestion time, normalized at the record level in the processed (silver) layer, and aggregated into deterministic, overwrite-by-day analytics (gold). Each layer has a single responsibility, enabling safe reprocessing and reliable metrics.
+The pipeline enforces a clear, layered data flow: files are validated at ingestion time, normalized at the record level in the processed (silver) layer, and aggregated into deterministic, overwrite-by-day analytics (gold). Each layer has a single responsibility, enabling safe reprocessing and reliable metrics.
 
 ---
 
@@ -413,3 +414,20 @@ This IAM model:
 - Reflects real production security practices
 
 ---
+
+# 📫 Contact
+
+## Oluwatosin Amosu Bolaji 
+- Data Engineer 
+- Buiness Intelligence Analyst
+- ETL Developer
+
+#### 🚀 **Always learning. Always building. Data-driven to the core.**  
+
+### 📫 **Let’s connect!**  
+- 📩 oluwabolaji60@gmail.com
+- 🔗 : [LinkedIn](https://www.linkedin.com/in/oluwatosin-amosu-722b88141)
+- 🌐 : [My Portfolio](https://www.datascienceportfol.io/oluwabolaji60) 
+- 𝕏 : [Twitter/X](https://x.com/thee_oluwatosin?s=21&t=EqoeQVdQd038wlSUzAtQzw)
+- 🔗 : [Medium](https://medium.com/@oluwabolaji60)
+- 🔗 : [View my Repositories](https://github.com/Tbrown1998?tab=repositories)
