@@ -1,5 +1,22 @@
 # Ingestion Layer — Lambda & File Movement
 
+### Ingestion flow:
+
+```mermaid
+sequenceDiagram
+    participant Client as Log Producer
+    participant S3 as Raw S3
+    participant Lambda as Ingestion Lambda
+    participant S3V as Validated S3
+
+    Client->>S3: Upload log file
+    S3-->>Lambda: ObjectCreated event
+    Lambda->>Lambda: Inspect metadata & content
+    Lambda->>S3V: Copy file to partition
+    Lambda->>S3: Delete raw file
+```
+
+---
 The ingestion layer is the **entry point** into the Atlas pipeline. Its responsibility
 is to safely transition raw log files from uncontrolled external inputs into a
 structured, partitioned, and processable state within the data lake.
@@ -74,24 +91,6 @@ The file is treated as:
 - an opaque object
 - with minimal inspection
 - and no record-level parsing
-
-### Ingestion flow:
-
-```mermaid
-sequenceDiagram
-    participant Client as Log Producer
-    participant S3 as Raw S3
-    participant Lambda as Ingestion Lambda
-    participant S3V as Validated S3
-
-    Client->>S3: Upload log file
-    S3-->>Lambda: ObjectCreated event
-    Lambda->>Lambda: Inspect metadata & content
-    Lambda->>S3V: Copy file to partition
-    Lambda->>S3: Delete raw file
-```
-
----
 
 ## File Format Detection
 
