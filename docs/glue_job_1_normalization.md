@@ -68,4 +68,5 @@ Duplicates may exist at this stage by design.
 ## Summary
 
 Glue Job 1 converts raw logs into structured data.
-It does not produce business metrics — it prepares data for them.
+It does not produce business metrics, it prepares data for them.
+
