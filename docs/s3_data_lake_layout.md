@@ -52,7 +52,7 @@ Key properties:
 
 ---
 
-### raw/ — Landing Zone
+### raw/ - Landing Zone
 - Entry point for all external log producers
 - Files are immutable
 - No schema or partition guarantees
@@ -60,7 +60,7 @@ Key properties:
 
 ---
 
-### validated/ — File-Level Correctness
+### validated/ - File-Level Correctness
 - Routed by Lambda
 - Partitioned by event date (not upload date)
 - Guaranteed correct format and placement
@@ -68,7 +68,7 @@ Key properties:
 
 ---
 
-### processed/ — Silver Layer
+### processed/ - Silver Layer
 - Output of Glue Job 1
 - Canonical schema
 - Parquet format
@@ -77,21 +77,21 @@ Key properties:
 
 ---
 
-### analytics/ — Gold Layer
+### analytics/ - Gold Layer
 - Output of Glue Job 2
 - Aggregated overwrite-by-day datasets
 - Authoritative source for reporting & dashboards
 
 ---
 
-### rejected/ — Failure Transparency
+### rejected/ - Failure Transparency
 - system/: infrastructure or job-level failures
 - data_quality/: row-level validation failures
 - Nothing is silently dropped
 
 ---
 
-### archive/ — Lineage & Audit
+### archive/ - Lineage & Audit
 - Preserves original filename
 - Ingestion timestamp
 - Pipeline run identifier

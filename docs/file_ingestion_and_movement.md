@@ -1,4 +1,4 @@
-# Ingestion Layer — Lambda & File Movement
+# Ingestion Layer - Lambda & File Movement
 
 ### Ingestion flow:
 

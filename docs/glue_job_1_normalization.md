@@ -1,4 +1,4 @@
-# Glue Job 1 — Normalization
+# Glue Job 1 - Normalization
 
 Glue Job 1 is responsible for transforming validated log files into a
 canonical, analytics-friendly dataset.

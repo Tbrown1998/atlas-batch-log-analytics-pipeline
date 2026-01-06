@@ -1,4 +1,4 @@
-# Glue Job 2 — Aggregation (Analytics Layer)
+# Glue Job 2 - Aggregation (Analytics Layer)
 
 Glue Job 2 is responsible for producing the **final, authoritative analytics datasets**
 from normalized log records. This job represents the **business metrics boundary** of Atlas.
