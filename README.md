@@ -11,54 +11,52 @@ The pipeline prioritizes **correctness, reproducibility, and operational clarity
 
 ---
 
-## Folder structure (Repository)
-```
-atlas-batch-log-analytics/
-│
-├── .git/
-│
-├── README.md
-│
-├── docs/
-│   ├── architecture.md
-│   ├── athena_queries.md
-│   ├── dataflow.md
-│   ├── file_movement.md
-│   ├── glue_crawlers.md
-│   ├── glue_etl.md
-│   ├── gold_job.md
-│   ├── iam_roles_permissions.md
-│   ├── job_parameters.md
-│   ├── lambda_validation.md
-│   ├── monitoring.md
-│   ├── rejects.md
-│   ├── s3_layout.md
-│   ├── schema_mapping.md
-│   ├── scripts.md
-│   ├── timestamp_parsing.md
-│   ├── troubleshooting.md
-│   └── validation.md
-│
-├── imgs/
-│   └── (architecture and data flow images)
-│
-├── sample-dataset/
-│   ├── 2024-11-29/
-│   │   ├── access_logs_2024-11-29.ndjson
-│   │   ├── api_logs_2024-11-29.json
-│   │   └── errors_2024-11-29.xml
-│   │
-│   └── 2024-11-30/
-│       ├── access_logs_2024-11-30.ndjson
-│       ├── api_logs_2024-11-30.json
-│       └── errors_2024-11-30.xml
-│
-└── scripts/
-    ├── log_analytics_glue_job1.py
-    ├── log_analytics_glue_job2.py
-    └── lambda_validator.py
+## Pipeline Layers Architecture
+
+```mermaid
+flowchart TB
+    subgraph RAW["raw/ (Landing Zone)"]
+        R1["Incoming Log Files (NDJSON, JSON.GZ, XML)"]
+    end
+    subgraph INGEST["Ingestion & Validation"]
+        L1["Lambda Ingestion • detect format • extract event date • route file"]
+    end
+    subgraph VALIDATED["validated/ (File-Level Correctness)"]
+        V1["validated/format/year=YYYY/month=MM/day=DD/"]
+    end
+    subgraph PROCESSED["processed/ (Silver Layer)"]
+        G1["Glue Job 1 Normalization"]
+        P1["processed/logs/log_type=access|error/year/month/day (Parquet)"]
+    end
+    subgraph ANALYTICS["analytics/ (Gold Layer)"]
+        G2["Glue Job 2 Daily Aggregation"]
+        A1["analytics/daily_activity/date=YYYY-MM-DD"]
+    end
+    subgraph CATALOG["Query Layer"]
+        C1["Glue Data Catalog"]
+        Q1["Athena"]
+    end
+    subgraph REJECTED["Rejected Data"]
+        RJ1["rejected/system/"]
+        RJ2["rejected/data_quality/"]
+        RJ3["rejected/system/"]
+    end
+    
+    R1 --> L1
+    L1 -->|pass| V1
+    L1 -->|fail| RJ1
+    V1 --> G1
+    G1 -->|valid records| P1
+    G1 -->|row-level issues| RJ2
+    G1 -->|job failure| RJ3
+    P1 --> G2
+    G2 --> A1
+    P1 --> C1
+    A1 --> C1
+    C1 --> Q1
 
 ```
+The pipeline enforces a clear, layered data flow: files are validated at ingestion time, normalized at the record level in the processed (silver) layer, and aggregated into deterministic, overwrite-by-day analytics (gold). Each layer has a single responsibility, enabling safe reprocessing and reliable metrics.
 
 ---
 
@@ -176,55 +174,6 @@ flowchart LR
 6. Normalized data is written to processed partitions
 7. Glue Job 2 aggregates processed data into analytics tables
 8. Crawlers update metadata for query access
-
-## Pipeline Layers Architecture
-
-```mermaid
-flowchart TB
-    subgraph RAW["raw/ (Landing Zone)"]
-        R1["Incoming Log Files (NDJSON, JSON.GZ, XML)"]
-    end
-    subgraph INGEST["Ingestion & Validation"]
-        L1["Lambda Ingestion • detect format • extract event date • route file"]
-    end
-    subgraph VALIDATED["validated/ (File-Level Correctness)"]
-        V1["validated/format/year=YYYY/month=MM/day=DD/"]
-    end
-    subgraph PROCESSED["processed/ (Silver Layer)"]
-        G1["Glue Job 1 Normalization"]
-        P1["processed/logs/log_type=access|error/year/month/day (Parquet)"]
-    end
-    subgraph ANALYTICS["analytics/ (Gold Layer)"]
-        G2["Glue Job 2 Daily Aggregation"]
-        A1["analytics/daily_activity/date=YYYY-MM-DD"]
-    end
-    subgraph CATALOG["Query Layer"]
-        C1["Glue Data Catalog"]
-        Q1["Athena"]
-    end
-    subgraph REJECTED["Rejected Data"]
-        RJ1["rejected/system/"]
-        RJ2["rejected/data_quality/"]
-        RJ3["rejected/system/"]
-    end
-    
-    R1 --> L1
-    L1 -->|pass| V1
-    L1 -->|fail| RJ1
-    V1 --> G1
-    G1 -->|valid records| P1
-    G1 -->|row-level issues| RJ2
-    G1 -->|job failure| RJ3
-    P1 --> G2
-    G2 --> A1
-    P1 --> C1
-    A1 --> C1
-    C1 --> Q1
-
-```
-The pipeline enforces a clear, layered data flow: files are validated at ingestion time, normalized at the record level in the processed (silver) layer, and aggregated into deterministic, overwrite-by-day analytics (gold). Each layer has a single responsibility, enabling safe reprocessing and reliable metrics.
-
----
 
 # Component Responsibilities
 
@@ -413,6 +362,58 @@ This IAM model:
 - Limits blast radius of failures  
 - Makes audits and debugging straightforward  
 - Reflects real production security practices
+
+---
+
+## Folder structure (Repository)
+
+```
+atlas-batch-log-analytics/
+│
+├── .git/
+│
+├── README.md
+│
+├── docs/
+│   ├── architecture.md
+│   ├── athena_queries.md
+│   ├── dataflow.md
+│   ├── file_movement.md
+│   ├── glue_crawlers.md
+│   ├── glue_etl.md
+│   ├── gold_job.md
+│   ├── iam_roles_permissions.md
+│   ├── job_parameters.md
+│   ├── lambda_validation.md
+│   ├── monitoring.md
+│   ├── rejects.md
+│   ├── s3_layout.md
+│   ├── schema_mapping.md
+│   ├── scripts.md
+│   ├── timestamp_parsing.md
+│   ├── troubleshooting.md
+│   └── validation.md
+│
+├── imgs/
+│   └── (architecture and data flow images)
+│
+├── sample-dataset/
+│   ├── 2024-11-29/
+│   │   ├── access_logs_2024-11-29.ndjson
+│   │   ├── api_logs_2024-11-29.json
+│   │   └── errors_2024-11-29.xml
+│   │
+│   └── 2024-11-30/
+│       ├── access_logs_2024-11-30.ndjson
+│       ├── api_logs_2024-11-30.json
+│       └── errors_2024-11-30.xml
+│
+└── scripts/
+    ├── log_analytics_glue_job1.py
+    ├── log_analytics_glue_job2.py
+    └── lambda_validator.py
+
+```
 
 ---
 
